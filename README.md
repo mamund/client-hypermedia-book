@@ -1,4 +1,4 @@
-= README
+# README
 
 Notes, comments, etc. on an upcoming book on building Hypermedia Client applications. 
 
